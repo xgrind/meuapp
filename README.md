@@ -28,5 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Para executar
 
-Executar o comando ng serve no diretorio meu-app e depois webdrive-manager start
-Executar o comando protractor no diretorio e2e
+Executar o comando ng serve no diretorio meu-app e depois webdrive-manager start. Executar o comando protractor no diretorio e2e
