@@ -1,0 +1,17 @@
+---
+- name: Eu vou cadastrar um novo produto
+  uid: 566739ab-f056-44a3-a706-1d785b547174
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu não preencho todos os campos
+  uid: 8cc1b58c-98dd-4f78-bdf5-052ca889ae93
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu estou na tela de cadastro
+  uid: c22377b6-b927-4c2c-94c5-8b9411178e96
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: O Sistema emite uma mensagem que não foi possível cadastrar
+  uid: 68bea6b4-f4a3-44b4-9599-560c4a1d9d02
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
