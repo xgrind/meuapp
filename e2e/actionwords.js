@@ -1,5 +1,6 @@
 exports.Actionwords = {
   euVouCadastrarUmNovoProduto: function () {
+  	// teste de botão enviar
     element(by.id('botaoEnviar')).click;    
   },
   euNaoPreenchoTodosOsCampos: function (login, senha) {    
